@@ -1,0 +1,25 @@
+{
+  "name": "prominado.rest",
+  "version": "1.0.0",
+  "description": "Bitrix component for displaying information messages",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-git": "^2.4.2",
+    "gulp-iconv": "0.0.1",
+    "gulp-zip": "^4.0.0",
+    "moment": "^2.19.3",
+    "run-sequence": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prominado-ru/prominado.message.git"
+  },
+  "author": "Panteleev Sergey <sergey@s-panteleev.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prominado-ru/prominado.message/issues"
+  },
+  "homepage": "https://github.com/Prominado-ru/prominado.message#readme"
+}
